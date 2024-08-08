@@ -7,4 +7,7 @@ class TranslateEngine{
         return translateUtil.translate(input, src_lang, dest_lang);
     }
     
+    std::string translate(std::string base_url, std::string input, std::string src_lang, std::string dest_lang){
+        return translateUtil.translate(input, src_lang, dest_lang);
+    }
 };
