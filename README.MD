@@ -13,9 +13,11 @@ sudo apt-get install libcurl-dev
 https://github.com/argosopentech/LibreTranslate-cpp
 
 ## More Information on Libre Translate
-
+<br/>
 https://libretranslate.com/ 
 <br/>
+<br/>
 For supported Languages or the Swagger URL's 
+<br/>
 <br/>
 https://libretranslate.com/docs/
