@@ -6,7 +6,7 @@ Common Language for the source of content.
 Very Minimal, Testing for the Library is done at the source level
 
 ## Ports
-Ports LibrTranslate for C++ to the project, needs libcurl-dev to be installed
+Ports LibreTranslate for C++ to the project, needs libcurl-dev to be installed
 
 sudo apt-get install libcurl-dev
 
