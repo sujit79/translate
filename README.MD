@@ -11,3 +11,11 @@ Ports LibreTranslate for C++ to the project, needs libcurl-dev to be installed
 sudo apt-get install libcurl-dev
 
 https://github.com/argosopentech/LibreTranslate-cpp
+
+## More Information on Libre Translate
+<br/>
+https://libretranslate.com/ <br/>
+
+For supported Languages or the Swagger URL's <br/>
+<br/>
+https://libretranslate.com/docs/
