@@ -10,4 +10,8 @@ class TranslateEngine{
     std::string translate(std::string base_url, std::string input, std::string src_lang, std::string dest_lang){
         return translateUtil.translate(base_url, input, src_lang, dest_lang);
     }
+
+    std::string translate(std::string base_url, std::string api_key, std::string input, std::string src_lang, std::string dest_lang){
+        return translateUtil.translate(base_url, api_key, input, src_lang, dest_lang);
+    }
 };

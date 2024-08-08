@@ -8,6 +8,7 @@ class TranslateUtil{
 
     public: std::string translate(std::string input, std::string src_lang, std::string dest_lang);
     public: std::string translate(std::string base_url, std::string input, std::string src_lang, std::string dest_lang);
+    public: std::string translate(std::string base_url, std::string api_key, std::string input, std::string src_lang, std::string dest_lang);
     
 };
 #endif
